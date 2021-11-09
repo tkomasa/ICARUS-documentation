@@ -4,7 +4,6 @@
 ![Discord.py Version](https://img.shields.io/badge/discord.py-v1.7.3-94332c)
 ![Last Commit](https://img.shields.io/github/last-commit/tkomasa/ICARUS-documentation)
 ![IIF Logo](https://img.shields.io/badge/commissioned%20by-INVFED-0A2537)
-![]()
 
 ### INVFED Computational Assistant and Recruitment Utility System
 Created by **Turtle-12** for **Invictus Intergalactic Federation**  
