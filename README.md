@@ -9,4 +9,4 @@
 Created by **Turtle-12** for **Invictus Intergalactic Federation**  
 <sub>_Special thanks to: **Terra**, **Majestic**, and **INVFED Command**._</sub>
 
-Please visit the Wiki [here]().
+Please visit the Wiki [here](https://github.com/tkomasa/ICARUS-documentation/wiki).
