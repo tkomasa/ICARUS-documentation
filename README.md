@@ -9,15 +9,4 @@
 Created by **Turtle-12** for **Invictus Intergalactic Federation**  
 <sub>_Special thanks to: **Terra**, **Majestic**, and **INVFED Command**._</sub>
 
-## Table of Contents:  
-[I. Ethos](#I-Ethos)  
-[II. Use Cases](#II-Use-Cases)  
-[III. Dependecies](#III-Dependencies)  
-[IV. Events](#IV-Events)  
-[V. Commands](#V-Commands)  
-&emsp;&emsp; [V.a. Interview Commands](#Va-Interview-Commands)  
-&emsp;&emsp; [V.b. Logging Commands](#Vb-Logging-Commands)  
-[VI. Examples](#VI-Examples)  
-[VII. Errors and Bugs](#VII-Errors-and-Bugs)  
-
 Please visit the Wiki [here]().
