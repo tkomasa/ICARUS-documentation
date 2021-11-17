@@ -10,3 +10,5 @@ Created by **Turtle-12** for **Invictus Intergalactic Federation**
 <sub>_Special thanks to: **Terra**, **Majestic**, and **INVFED Command**._</sub>
 
 Please visit the [ICARUS Wiki](https://github.com/tkomasa/ICARUS-documentation/wiki).
+
+Report issues by going to the [issues page](https://github.com/tkomasa/ICARUS-documentation/issues/new/choose)
