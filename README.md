@@ -11,4 +11,4 @@ Created by **Turtle-12** for **Invictus Intergalactic Federation**
 
 Please visit the [ICARUS Wiki](https://github.com/tkomasa/ICARUS-documentation/wiki).
 
-Report issues by going to the [issues page](https://github.com/tkomasa/ICARUS-documentation/issues/new/choose)
+Report issues by going to the [issues page](https://github.com/tkomasa/ICARUS-documentation/issues/new/choose).
