@@ -7,7 +7,7 @@
 
 ### INVFED Computational Assistant and Recruitment Utility System
 Created by **Turtle-12** for **Invictus Intergalactic Federation**  
-<sub>_Special thanks to: **Terra**, **Majestic**, **Victor_Hermes**, and **INVFED Command**._</sub>
+<sub>_Special thanks to: **Terra**, **Majestic**, **Victor_Hermez**, and **INVFED Command**._</sub>
 
 Please visit the [ICARUS Wiki](https://github.com/tkomasa/ICARUS-documentation/wiki).
 
