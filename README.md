@@ -13,8 +13,7 @@ Please visit the [ICARUS Wiki](https://github.com/tkomasa/ICARUS-documentation/w
 
 Report issues by going to the [issues page](https://github.com/tkomasa/ICARUS-documentation/issues/new/choose) and creating a new issue.
 
-
-<br><br>
+***
 
 <sub>This is an unofficial Star Citizen tool, not affiliated with the Cloud Imperium group of companies. All content on this site not authored by its host or users are property of their respective owners. robertsspaceindustries.com
 
