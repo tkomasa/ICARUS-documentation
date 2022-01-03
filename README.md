@@ -15,10 +15,10 @@ Report issues by going to the [issues page](https://github.com/tkomasa/ICARUS-do
 
 ***
 
-<sub>This is an unofficial Star Citizen tool, not affiliated with the Cloud Imperium group of companies. All content on this site not authored by its host or users are property of their respective owners. robertsspaceindustries.com
+<sub>This is an unofficial Star Citizen tool, not affiliated with the Cloud Imperium group of companies. All content on this site not authored by its host or users are property of their respective owners. robertsspaceindustries.com</sub>
 
-<sub>This project is not endorsed by or affiliated with the Cloud Imperium or Roberts Space Industries group of companies.
+<sub>This project is not endorsed by or affiliated with the Cloud Imperium or Roberts Space Industries group of companies.</sub>
 
-<sub>All game content and materials are copyright Cloud Imperium Rights LLC, Cloud Imperium Rights Ltd, Star Citizen®, Squadron 42®, Roberts Space Industries®, and Cloud Imperium® are registered trademarks of Cloud Imperium Rights LLC.
+<sub>All game content and materials are copyright Cloud Imperium Rights LLC, Cloud Imperium Rights Ltd, Star Citizen®, Squadron 42®, Roberts Space Industries®, and Cloud Imperium® are registered trademarks of Cloud Imperium Rights LLC.</sub>
 
 <sub>All rights reserved.</sub>
