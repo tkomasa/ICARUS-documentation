@@ -2,7 +2,7 @@
 <img align="right" width="200" src="https://github.com/tkomasa/ICARUS-documentation/blob/5cbdbbd8e43226d6371319f018067f4cc1df1ee7/images/INVFEDbot.png" />
 
 ![Version](https://img.shields.io/badge/I.C.A.R.U.S.-v1.0.0-49fcff)
-![Python](https://img.shields.io/badge/python-v3.8.5-3571A3)
+![Python](https://img.shields.io/badge/python-3.5|3.6|3.7|3.8-3571A3)
 ![Discord.py Version](https://img.shields.io/badge/discord.py-v1.7.3-94332c)
 
 ![IIF Logo](https://img.shields.io/badge/commissioned-INVFED-0A2537)
