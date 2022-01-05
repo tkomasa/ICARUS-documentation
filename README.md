@@ -1,4 +1,4 @@
-# **I.C.A.R.U.S.** v1.0  
+# **I.C.A.R.U.S.** v1.0.0
 <img align="right" width="200" src="https://github.com/tkomasa/ICARUS-documentation/blob/5cbdbbd8e43226d6371319f018067f4cc1df1ee7/images/INVFEDbot.png" />
 
 ![Version](https://img.shields.io/badge/I.C.A.R.U.S.-v1.0.0-49fcff)
