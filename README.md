@@ -15,6 +15,7 @@
 ### INVFED Computational Assistant and Recruitment Utility System
 Created by **Turtle-12** for **Invictus Intergalactic Federation**  
 <sub>_Special thanks to: **Terra**, **Majestic**, **Victor_Hermez**, and **INVFED Command**._</sub>
+ICARUS is a Discord bot created through combined effort of several individuals over hundreds of hours for Invictus Intergalactic Federation, including the creation and use of a completely custom Python library.
 
 Please visit the [ICARUS Wiki](https://github.com/tkomasa/ICARUS-documentation/wiki).
 
